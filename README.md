@@ -13,14 +13,14 @@
 Este projeto se trata da resolução de 4 exercícios abordando o tema de Grafos. Os exercícios foram retirados do site [LeetCode](https://leetcode.com/tag/graph/).
 
 ### Exercício 1
-**Nome:** <br>
-**Código:** [ACESSO]()<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Nome:** Tempo de Atraso da Rede<br>
+**Código:** [ACESSO](exercicios/tempoAtraso/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/network-delay-time/)<br>
 
 ### Exercício 2
-**Nome:** <br>
-**Código:** [ACESSO]()<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Nome:** Custo Mínimo para Conectar Todos os Pontos<br>
+**Código:** [ACESSO](exercicios/custoMinimo/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)<br>
 
 ### Exercício 3
 **Nome:** <br>
