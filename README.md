@@ -35,8 +35,8 @@ Este projeto se trata da resolução de 4 exercícios abordando o tema de Grafos
 
 ## Screenshots
 
-![Exercicio1]()
-![Exercicio2]()
+![Exercicio1](assets/exercicio1.png)
+![Exercicio2](assets/exercicio2.png)
 ![Exercicio3]()
 ![Exercicio4]()
 
