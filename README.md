@@ -23,14 +23,14 @@ Este projeto se trata da resolução de 4 exercícios abordando o tema de Grafos
 **Página LeetCode:** [ACESSO](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)<br>
 
 ### Exercício 3
-**Nome:** <br>
-**Código:** [ACESSO]()<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Nome:** Caminho com Esforço Mínimo<br>
+**Código:** [ACESSO](exercicios/CaminhoComEsforcoMinimo/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/path-with-minimum-effort/)<br>
 
 ### Exercício 4
-**Nome:** <br>
-**Código:** [ACESSO]()<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Nome:** Encontrar as arestas críticas e pseudo-críticas na Árvore Geradora Mínima<br>
+**Código:** [ACESSO](exercicios/EncontrarArestasCr%C3%ADticasePseudoCriticas/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)<br>
 
 
 ## Screenshots
