@@ -16,6 +16,7 @@ Observe que você pode retornar os índices das arestas em qualquer ordem.
 Input: n = 5, edges = [[0,1,1],[1,2,1],[2,3,2],[0,3,2],[0,4,3],[3,4,3],[1,4,6]]
 Output: [[0,1],[2,3,4,5]]
 Explicação: A figura acima descreve o grafo. A figura a seguir mostra todas as possíveis Árvores Geradoras Mínimas (MSTs):
+
 ```
 ![App Screenshot](https://assets.leetcode.com/uploads/2020/06/04/msts.png)
 
@@ -23,6 +24,7 @@ Explicação: A figura acima descreve o grafo. A figura a seguir mostra todas as
 Observe que as duas arestas 0 e 1 aparecem em todas as MSTs, portanto são arestas críticas e são retornadas na primeira lista de saída. 
 As arestas 2, 3, 4 e 5 fazem parte apenas de algumas MSTs, portanto são consideradas arestas pseudo-críticas. Nós as adicionamos à segunda lista de saída.
 ```
+
 **Exemplo 2:**
 ![App Screenshot](https://assets.leetcode.com/uploads/2020/06/04/ex2.png)
 
