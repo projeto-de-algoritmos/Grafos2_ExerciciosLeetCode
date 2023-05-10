@@ -37,8 +37,8 @@ Este projeto se trata da resolução de 4 exercícios abordando o tema de Grafos
 
 ![Exercicio1](assets/exercicio1.png)
 ![Exercicio2](assets/exercicio2.png)
-![Exercicio3]()
-![Exercicio4]()
+![Exercicio3](assets/exercicio3.png)
+![Exercicio4](assets/exercicio4.png)
 
 
 ## Instalação 
